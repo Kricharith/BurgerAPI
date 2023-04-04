@@ -2,17 +2,17 @@
     {
         "title":"ดับเบิ้ลวอปเปอร์®ชีส",
         "subtitle":"159 บาท",
-        "image_url":"assets/images/burger/BaconDoubleCheeseburger.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/BaconDoubleCheeseburger.png?raw=true"
     },
     {
         "title":"ดับเบิ้ล เบคอนชีส",
         "subtitle":" 239 บาท",
-        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/BaconDoubleCheeseburger.png?raw=true"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/BaconKing.png?raw=true"
     },
     {
         "title":" บิ๊กคิง ",
         "subtitle":" 179 บาท",
-        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/BaconKing.png?raw=true"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/BigKing.png?raw=true"
     },
     {
         "title":"ดับเบิ้ลวอปเปอร์®",
