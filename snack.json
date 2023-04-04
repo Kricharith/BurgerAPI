@@ -2,26 +2,26 @@
     {
         "title":"applepie",
         "subtitle":"59 บาท",
-        "image_url":"assets/images/snack/applepie.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/applepie.png?raw=true"
     },
     {
         "title":"Hashbrowns",
         "subtitle":"89 บาท",
-        "image_url":"assets/images/snack/Hashbrowns.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/Hashbrowns.png?raw=true"
     },
     {   "title":"MozzarellaSticks",
         "subtitle":"89 บาท",
-        "image_url":"assets/images/snack/MozzarellaSticks.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/MozzarellaSticks.png?raw=true"
     },
     {
         "title":"saltchicken",
         "subtitle":"79 บาท",
-        "image_url":"assets/images/snack/saltchicken.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/saltchicken.png?raw=true"
     },
     {
         "title":"TaroCornPie",
         "subtitle":"59 บาท",
-        "image_url":"assets/images/snack/TaroCornPie.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/TaroCornPie.png?raw=true"
     }
         
 ]
