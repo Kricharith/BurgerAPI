@@ -2,51 +2,51 @@
     {
         "title":"pepsi",
         "subtitle":"35 บาท",
-        "image_url":"assets/images/drink/pepsi.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/pepsi.png?raw=true"
     },
     {
         "title":"cola",
         "subtitle":"35 บาท",
-        "image_url":"assets/images/drink/cola.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/cola.png?raw=true"
     },
     {
         "title":"colazero",
         "subtitle":"35 บาท",
-        "image_url":"assets/images/drink/colazero.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/colazero.png?raw=true"
     },
     {
         "title":"DietCoke",
         "subtitle":"55 บาท",
-        "image_url":"assets/images/drink/DietCoke.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/DietCoke.png?raw=true"
     },
     {
         "title":"FantaOrange",
         "subtitle":"30 บาท",
-        "image_url":"assets/images/drink/FantaOrange.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/FantaOrange.png?raw=true"
     },
     {
         "title":"FantaStrawberry",
         "subtitle":"30 บาท",
-        "image_url":"assets/images/drink/FantaStrawberry.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/FantaStrawberry.png?raw=true"
     },
     {
         "title":"icedmilo",
         "subtitle":"35 บาท",
-        "image_url":"assets/images/drink/icedmilo.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/icedmilo.png?raw=true"
     },
     {
         "title":"LiptonIce",
         "subtitle":"35 บาท",
-        "image_url":"assets/images/drink/LiptonIce.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/LiptonIce.png?raw=true"
     },
     {
         "title":"Sprite",
         "subtitle":"35 บาท",
-        "image_url":"assets/images/drink/Sprite.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/Sprite.png?raw=true"
     },
     {
         "title":"Water",
         "subtitle":"35 บาท",
-        "image_url":"assets/images/drink/Water.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/Water.png?raw=true"
     }
 ]
