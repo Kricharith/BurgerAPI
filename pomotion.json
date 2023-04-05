@@ -2,26 +2,26 @@
     {
         "title":"pomotion1",
         "subtitle":"5/4/2566",
-        "image_url":"assets/images/snack/applepie.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/1.png?raw=true"
     },
     {
         "title":"pomotion2",
         "subtitle":"5/4/2566",
-        "image_url":"assets/images/snack/Hashbrowns.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/2.png?raw=true"
     },
     {   "title":"pomotion3",
         "subtitle":"5/4/2566",
-        "image_url":"assets/images/snack/MozzarellaSticks.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/3.png?raw=true"
     },
     {
         "title":"pomotion4",
         "subtitle":"5/4/2566",
-        "image_url":"assets/images/snack/saltchicken.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/4.png?raw=true"
     },
     {
         "title":"pomotion5",
         "subtitle":"5/4/2566",
-        "image_url":"assets/images/snack/TaroCornPie.png"
+        "image_url":"https://github.com/Kricharith/BurgerAPI/blob/main/5.png?raw=true"
     }
         
 ]
